@@ -50,7 +50,7 @@ See [Git for macOS](https://git-scm.com/install/mac).
 
 ### Check installation
 
-  - interminal write:
+  - in terminal write:
 
     ```bash
     git --version
@@ -75,9 +75,10 @@ See [Git for macOS](https://git-scm.com/install/mac).
     git config --global --list
     ```
 
-  - `--global`: settings for your user account.
-  - Name and email are stored in commits.
-  - No online account or connection is needed.
+    >- `--global`: settings for your user account.
+    >- Name and email are stored in commits.
+    >- No online account or connection is needed.
+
 
 See [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
 
@@ -91,7 +92,7 @@ See [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-
 
 ## 1. Create a Python project
 
-  - Project structure (simple directory with app.py file):
+  - project structure (simple directory with app.py file):
 
     ```text
     git-demo/

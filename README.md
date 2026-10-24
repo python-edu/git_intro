@@ -254,7 +254,10 @@ Python projects often contain:
       ```
   
   2. put to .gitignore:
-      ```gitignore
+      ```
+      .gitignore
+      .env/
+      env/
       .venv/
       venv/
       __pycache__/
